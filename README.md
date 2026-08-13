@@ -1,1 +1,1 @@
-This repository aims at exploring energy market's basics in order to understands its main mechanisms 
+I build quantitative projects to understand and optimise European electricity markets.
